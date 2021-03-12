@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GustavoQuintero99.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/GustavoQuintero99.github.io/static/js/main.14f2d4f4.chunk.js",
+    "main.js.map": "/GustavoQuintero99.github.io/static/js/main.14f2d4f4.chunk.js.map",
+    "runtime-main.js": "/GustavoQuintero99.github.io/static/js/runtime-main.6fef2d60.js",
+    "runtime-main.js.map": "/GustavoQuintero99.github.io/static/js/runtime-main.6fef2d60.js.map",
+    "static/js/2.68199e36.chunk.js": "/GustavoQuintero99.github.io/static/js/2.68199e36.chunk.js",
+    "static/js/2.68199e36.chunk.js.map": "/GustavoQuintero99.github.io/static/js/2.68199e36.chunk.js.map",
+    "static/js/3.0a2e06a9.chunk.js": "/GustavoQuintero99.github.io/static/js/3.0a2e06a9.chunk.js",
+    "static/js/3.0a2e06a9.chunk.js.map": "/GustavoQuintero99.github.io/static/js/3.0a2e06a9.chunk.js.map",
+    "index.html": "/GustavoQuintero99.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/GustavoQuintero99.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.68199e36.chunk.js.LICENSE.txt": "/GustavoQuintero99.github.io/static/js/2.68199e36.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GustavoQuintero99.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fef2d60.js",
+    "static/js/2.68199e36.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.14f2d4f4.chunk.js"
+  ]
+}
